@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+tensorflow
+python-dotenv
+python-multipart
+python-jose
+sqlalchemy
+psycopg2
+bcrypt
+passlib
+pandas
+joblib
+Pillow
+scikit-learn==1.3.2
